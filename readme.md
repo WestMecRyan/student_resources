@@ -12,6 +12,8 @@
 
 > [Soccer Bot Build Instructions](https://drive.google.com/file/d/18fN1Rpcv4x53_JIsmtP1LWJPCSrH6Wcm/view?usp=sharing)
 
+> [Lego Spike Part Names List](https://le-www-live-s.legocdn.com/sc/media/files/support/spike-prime/le_spike_prime_set_element_overview_classroom_poster_18x24inch-a7ecd36fbf6d15fd4c7617f4cb882531.pdf)
+
 ### Typing Resources
 
 > [MonkeyType](https://monkeytype.com/)
