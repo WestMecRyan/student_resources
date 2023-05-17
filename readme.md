@@ -8,6 +8,10 @@
 
 ## QUICKLINKS
 
+### Robotics Resources
+
+> [Soccer Bot Build Instructions](https://drive.google.com/file/d/18fN1Rpcv4x53_JIsmtP1LWJPCSrH6Wcm/view?usp=sharing)
+
 ### Typing Resources
 
 > [MonkeyType](https://monkeytype.com/)
